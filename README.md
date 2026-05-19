@@ -35,7 +35,7 @@ The whole thing is exposed as a REST API using FastAPI.
 You'll need a free Groq API key from console.groq.com
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kuku-story-agent
+git clone https://github.com/kgowtham590-spec/kuku-story-agent
 cd kuku-story-agent
 
 python -m venv venv
